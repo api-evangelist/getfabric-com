@@ -1,0 +1,22 @@
+generated: '2026-10-23'
+method: none
+source:
+- https://zapier.com/apps/getfabric-com/integrations
+- https://zapier.com/apps/getfabric/integrations
+- https://zapier.com/apps/fabric/integrations
+- https://n8n.io/integrations/getfabric-com/
+- https://n8n.io/integrations/getfabric/
+- https://composio.dev/toolkits/getfabric-com
+- https://monid.ai/tools/getfabric-com
+checked:
+- https://composio.dev/toolkits/getfabric-com
+- https://monid.ai/tools/getfabric-com
+- https://n8n.io/integrations/getfabric-com/
+- https://n8n.io/integrations/getfabric/
+- https://zapier.com/apps/fabric/integrations
+- https://zapier.com/apps/getfabric-com/integrations
+- https://zapier.com/apps/getfabric/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
